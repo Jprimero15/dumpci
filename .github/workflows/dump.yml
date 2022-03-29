@@ -6,6 +6,8 @@ on:
       - '*.md'
     branches: [ main ]
 
+  workflow_dispatch:
+
 defaults:
   run:
     shell: bash
