@@ -13,7 +13,7 @@ defaults:
     shell: bash
 
 env:
-  ROM_URL: https://bigota.d.miui.com/V13.0.5.0.RGEMIXM/miui_FOGGlobal_V13.0.5.0.RGEMIXM_b0a9221fed_11.0.zip
+  ROM_URL: https://download1327.mediafire.com/snuckrx9aarg/jb9bjiuxwxl3vma/X6812B-H6912KL-R-OP-220112V591_%28MobileGuru4.com%29.zip
 
 jobs:
   build:
